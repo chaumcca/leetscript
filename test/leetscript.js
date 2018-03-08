@@ -44,10 +44,10 @@ describe('leetscript tests with simple option', () => {
 
   it('should replace uppercase letters as expected', () => {
     let testMap = {
-      "Leet": "1337",
-      "Lorem": "1023m",
-      "Key": "k3y",
-      "ZeRo": "2320",
+      "Leet": "leet",
+      "Lorem": "lorem",
+      "Key": "key",
+      "ZeRo": "zero",
     }
     let strings = Object.keys(testMap)
 
