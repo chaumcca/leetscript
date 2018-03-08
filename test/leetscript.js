@@ -7,10 +7,10 @@ const l = new Leet(true);
 describe('leetscript tests with simple option', () => {
   it('should convert to basic leet with simple option set', () => {
     let simpleMap = {
-      "leetscript": "13375c2ip7",
-      "kevingimbel": "k3vin6im831",
-      "node scripts": "n0d3 5c2ip75",
-      "cli tools": "c1i 70015"
+      "leetscript": "leetscript",
+      "kevingimbel": "kevingimbel",
+      "node scripts": "node scripts",
+      "cli tools": "cli tools"
     }
     let strings = Object.keys(simpleMap)
 
