@@ -7,10 +7,10 @@ const l = new Leet(true);
 describe('leetscript tests with simple option', () => {
   it('should convert to basic leet with simple option set', () => {
     let simpleMap = {
-      "leetscript": "leetscript",
-      "kevingimbel": "kevingimbel",
-      "node scripts": "node scripts",
-      "cli tools": "cli tools"
+      "leetscript": "13375c2ip7",
+      "kevingimbel": "k3vin6im831",
+      "node scripts": "n0d3 5c2ip75",
+      "cli tools": "c1i 70015"
     }
     let strings = Object.keys(simpleMap)
 
@@ -44,10 +44,10 @@ describe('leetscript tests with simple option', () => {
 
   it('should replace uppercase letters as expected', () => {
     let testMap = {
-      "Leet": "leet",
-      "Lorem": "lorem",
-      "Key": "key",
-      "ZeRo": "zero",
+      "Leet": "1337",
+      "Lorem": "1023m",
+      "Key": "k3y",
+      "ZeRo": "2320",
     }
     let strings = Object.keys(testMap)
 
